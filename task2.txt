@@ -1,0 +1,14 @@
+why do you like to join as a software developer?
+            passion to develop webs and coding made me to choose it field in college as well as after that. its always exciting to learn new technologies and wants to stay updated.
+
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+vscode- it is widely used by programmers including me for writing various programming languages . it has a wide range of extensions that helps me while coding and a large number of features
+	
+github- it is widely used for hosting and storing codes. as my personal experience, it helps to retrieve codes even if i loose my system
+
+mysql- an open source rdbms for storing datas 
+
+List top 3 organisations you like to join in your career & why you like these organisations.  
+
+               always excited to work in social media platforms like instagram, facebook, whatsapp etc . with new technologies emerging ,it will be a great opportunity for me
